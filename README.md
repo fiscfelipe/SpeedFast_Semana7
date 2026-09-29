@@ -109,8 +109,6 @@ CAMBIAR_AQUI
 
 por la contraseña local del usuario `root` de MySQL.
 
-La contraseña real no se incluye en el repositorio.
-
 ## MySQL Connector/J
 
 El controlador JDBC utilizado se encuentra dentro de:
